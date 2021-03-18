@@ -4,7 +4,7 @@ Prerequisites
 
 2.Before Run program please follow the steps
 
-2.3 Run the program  
+3 Run the program  
     
     Go to project src folder 
     go run main.go
